@@ -1,4 +1,4 @@
-const main = () => {
+const Main = () => {
     return ( 
         <>
         <div className="p-8 bg-dark-purple text-white">
@@ -9,4 +9,4 @@ const main = () => {
      );
 }
  
-export default main;
+export default Main;
